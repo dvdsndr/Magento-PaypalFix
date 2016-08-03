@@ -1,0 +1,5 @@
+app/code/community/Full/PaypalFix/etc/config.xml app/code/community/Full/PaypalFix/etc/config.xml
+app/code/community/Full/PaypalFix/Model/Hostedpro/Request.php app/code/community/Full/PaypalFix/Model/Hostedpro/Request.php
+app/etc/modules/Full_PaypalFix.xml app/etc/modules/Full_PaypalFix.xml
+README.md README.md
+composer.json composer.json
